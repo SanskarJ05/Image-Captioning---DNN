@@ -5,3 +5,9 @@ Please find a .ipynb file,
 It is saved on checkpoint with desired output displayed for a better understanding of the code
 
 We have used Flick8k which is directly imported from Kaggle 
+
+
+PRESENTED BY:
+SANSKAR JAIN
+SIMRAN VANJANI 
+YUG JAIN
